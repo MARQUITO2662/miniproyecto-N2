@@ -1,0 +1,25 @@
+ID,Nombres,Apellidos,Dirección,Correo,DNI,Edad,Fecha de Creación,Teléfono
+1,marco,lopez,jr los huertos 2256,,41168291,44,Thu Nov 30 1899 00:00:00 GMT-0508 (hora estándar de Perú),998771290
+2,Ruben,Layburn,8th Floor,,45,74,Thu Oct 19 2023 00:00:00 GMT-0500 (hora estándar de Perú),170-299-2433
+3,Maria,Gonzalez,Main Street,,987654321,30,Sun May 15 2022 00:00:00 GMT-0500 (hora estándar de Perú),555-123-4567
+4,Juan,Perez,Oak Avenue,,456789123,28,Tue Jan 30 2024 00:00:00 GMT-0500 (hora estándar de Perú),555-987-6543
+5,John,Doe,123 Main Street,,123456789A,30,Sun Jan 01 2023 00:00:00 GMT-0500 (hora estándar de Perú),555-1234
+6,Jane,Smith,456 Elm Street,,987654321B,25,Wed Feb 02 2022 00:00:00 GMT-0500 (hora estándar de Perú),555-5678
+7,Michael,Johnson,789 Oak Street,,234567890C,35,Wed Mar 03 2021 00:00:00 GMT-0500 (hora estándar de Perú),555-9012
+8,Emily,Williams,1011 Pine Street,,543210987D,28,Sat Apr 04 2020 00:00:00 GMT-0500 (hora estándar de Perú),555-3456
+9,David,Brown,1213 Cedar Street,,678901234E,40,Sun May 05 2019 00:00:00 GMT-0500 (hora estándar de Perú),555-7890
+10,Emma,Taylor,1415 Maple Street,,098765432F,22,Wed Jun 06 2018 00:00:00 GMT-0500 (hora estándar de Perú),555-1234
+11,James,Anderson,1617 Birch Street,,876543210G,38,Fri Jul 07 2017 00:00:00 GMT-0500 (hora estándar de Perú),555-5678
+12,Olivia,Martinez,1819 Oak Street,,765432109H,29,Mon Aug 08 2016 00:00:00 GMT-0500 (hora estándar de Perú),555-9012
+13,William,Hernandez,2021 Elm Street,,654321098I,33,Wed Sep 09 2015 00:00:00 GMT-0500 (hora estándar de Perú),555-3456
+14,Sophia,Lopez,2223 Pine Street,,543210987J,27,Fri Oct 10 2014 00:00:00 GMT-0500 (hora estándar de Perú),555-7890
+15,Alexander,Garcia,2425 Cedar Street,,432109876K,31,Mon Nov 11 2013 00:00:00 GMT-0500 (hora estándar de Perú),555-1234
+16,Ava,Rodriguez,2627 Maple Street,,321098765L,24,Wed Dec 12 2012 00:00:00 GMT-0500 (hora estándar de Perú),555-5678
+17,Daniel,Martinez,2829 Birch Street,,210987654M,37,Sat Jan 01 2011 00:00:00 GMT-0500 (hora estándar de Perú),555-9012
+18,Mia,Hernandez,3031 Oak Street,,109876543N,26,Tue Feb 02 2010 00:00:00 GMT-0500 (hora estándar de Perú),555-3456
+19,Matthew,Lopez,3233 Elm Street,,098765432O,39,Tue Mar 03 2009 00:00:00 GMT-0500 (hora estándar de Perú),555-7890
+20,Ella,Gonzalez,3435 Pine Street,,987654321P,23,Fri Apr 04 2008 00:00:00 GMT-0500 (hora estándar de Perú),555-1234
+21,Benjamin,Perez,3637 Cedar Street,,876543210Q,32,Sat May 05 2007 00:00:00 GMT-0500 (hora estándar de Perú),555-5678
+22,Chloe,Sanchez,3839 Maple Street,,765432109R,28,Tue Jun 06 2006 00:00:00 GMT-0500 (hora estándar de Perú),555-9012
+23,Jacob,Ramirez,4041 Birch Street,,654321098S,34,Thu Jul 07 2005 00:00:00 GMT-0500 (hora estándar de Perú),555-3456
+24,Harper,Torres,4243 Oak Street,,543210987T,29,Sun Aug 08 2004 00:00:00 GMT-0500 (hora estándar de Perú),555-7890

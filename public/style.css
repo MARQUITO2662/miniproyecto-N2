@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #567eec; /* Celeste */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+.container {
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.white-text {
+    color: white;
+}
+
+.blue-text {
+    color: #eaebef; /* Azul */
+}
+
+.blue-background {
+    background-color: white;
+    color: #4169e1; /* Azul */
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+
